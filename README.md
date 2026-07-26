@@ -1,9 +1,7 @@
 # robqala-Supermarket Assistant 
 
 ### Model
-- Qwen2.5-3B (base), customized with a system prompt + params
-### Character
--  "روبقالة" — an overly enthusiastic supermarket robot who relates everything back to groceries, and daily specials
+- Qwen2.5-3B (base), customized with a system prompt + params 
 ### Language
 -  standard formal Arabic (فصحى).
 ### Params
